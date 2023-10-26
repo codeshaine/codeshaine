@@ -24,7 +24,9 @@ Languages and Tools:
 - CSS
 - JavaScript
 - Bootstrap
-- Java
+- Node js
+- Express
+- EJS
 
 ## 📊 GitHub Stats
 
