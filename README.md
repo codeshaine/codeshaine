@@ -7,15 +7,7 @@
 
 I'm on a journey to become a full-stack web developer, combining my passion for front-end development with a desire to dive into the world of backend development. My ultimate goal is to craft websites that are not only functional but also cozy and friendly, providing users with a delightful online experience.
 
-As I continue to learn and explore, I'm honing my skills in HTML, CSS, JavaScript, Bootstrap. While I'm still on the path to frontend expertise, I'm excited about the opportunities and creativity that await on this journey.
-
-## 🌱 Current Focus
-
-👨‍💻 At present, my main areas of focus include:
-
-- Advancing my frontend development skills
-- Venturing into backend development to complete my full-stack knowledge
-- Building warm and inviting websites that resonate with users
+As I continue to learn and explore, I'm honing my skills in frontend and beackend technologies.I'm excited about opportunities that i may get in future.
 
 ## 🔧 Technologies & Tools
 
@@ -34,6 +26,6 @@ Languages and Tools:
 
 ## 📫 Contact
 
-If you share my passion for creating cozy and friendly websites or if you'd like to discuss frontend and backend development, please don't hesitate to reach out at axioznot05@gmail.com.
+If you have any questions regarding my projects or if you want to reach out to me, please don't hesitate to contact me at axioznot05@gmail.com.
 
-Let's build a web that's not just functional, but also warm and inviting! 😊
+Lets build projects that impress ourself..! 😊
