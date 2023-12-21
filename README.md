@@ -4,7 +4,7 @@
   <img style="width:50vh" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="Programmer Gif">
 </p>
 
-This is Shainil , building some stuff and looking for open source project to contribute along the way..!!
+This is Shainil , building some stuff and looking for open source projects to contribute along the way..!!
 
 ## 🔧 Technologies & Tools
 
@@ -25,7 +25,7 @@ This is Shainil , building some stuff and looking for open source project to con
 ## 📫 Contact
 
 <div align="center">
-<a target="_blank" href="mailto:axioznot05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:axioznot05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a><br>
 Lets build something we <3
 
 </div>
