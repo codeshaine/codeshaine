@@ -4,10 +4,9 @@
 
 <p>I'm a student learning programming along the way. I mostly build stuffs with Javascript/Typescript and sometimes Go.
 
-<br>
-<!-- <p align="center"> -->
+<p>
   <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
-<!-- </p> -->
+</p>
 
 ### My Interests
 
