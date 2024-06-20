@@ -23,5 +23,3 @@ Why code in codeshaine? Because I code to escape boredom, hehe!
 <hr>
 
 #### You can contace me <a href="https://codeshaine.github.io/codeshaine.socials/" target="_blank">here📨</a>
-
-
