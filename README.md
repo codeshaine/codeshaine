@@ -2,24 +2,23 @@
 
 ### A bit about me
 
-<p>I'm a student learning programming along the way. I mostly build stuffs with Javascript/Typescript and sometimes Go.
+I'm a Full-stack Developer. I mostly build stuff with Javascript/Typescript and sometimes Go.
 
-<p>
-  <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
-</p>
+<img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
 
 ### My Interests
 
-- Backend development
-- Terminal (learning nvim btw 🖥️)
+- Full-stack Development
+- Building Terminal Application
+- Terminal (neovim user btw 🖥️)
 - Linux
-- Exploring differnt frameworks
+- Exploring different Languages and tools
 - Anime and games
 
 ### My Atmosphere
 
 Why code in codeshaine? Because I code to escape boredom, hehe!
 
-<hr>
+---
 
-#### You can contace me <a href="mailto:shainilps.work@gmail.com" target="_blank">here📨</a>
+#### You can contace me  [here📨]("mailto:shainilps.work@gmail.com")
