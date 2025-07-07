@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I'm a Developer who is into Web2 . Web3 . softwares. I mostly build stuff with Javascript/Typescript, Go and Rust. and trying to learn haskell in my freetime (which I rarely have)
+I'm a Developer who is into web2 . web3 . softwares. I mostly build stuff with Javascript/Typescript, Go and Rust. and trying to learn Haskell in my freetime (which I rarely have)
 
 <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
 
@@ -20,7 +20,9 @@ I'm a Developer who is into Web2 . Web3 . softwares. I mostly build stuff with J
 Why code in codeshaine? Because I code to escape boredom, hehe!
 
 ### My Goal
-That would be ahmmm... building an Useful Open Source Projects.
+
+That would be hmmm...!! building an useful open source projects.
+
 ---
 
 #### You can contace me  [here📨]("mailto:shainilps.work@gmail.com")
