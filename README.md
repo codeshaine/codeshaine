@@ -8,8 +8,7 @@ I'm a Developer who is into web2 . web3 . softwares. I mostly build stuff with J
 
 ### My Interests
 
-- Software Development
-- System Programming (totally new to this still learning) 
+- Software Development 
 - Building Terminal Application
 - Terminal
 - Linux
