@@ -21,7 +21,7 @@ Why code in codeshaine? Because I code to escape boredom, hehe!
 
 ### my goal
 
-That would be hmmm...!! building an useful open source projects.
+That would be hmmm...!! planning to build a terminal this year. let's see if i can do that. 
 
 ---
 
