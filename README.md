@@ -1,27 +1,28 @@
-### Hey, This is Shainil P.S. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### hey, this is Shainil P.S. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### A bit about me
+### a bit about me
 
-I'm a Developer who is into web2 . web3 . softwares. I mostly build stuff with Javascript/Typescript, Go and Rust. and trying to learn Haskell in my freetime (which I rarely have)
+i'm a developer who is into computer science. i mostly build stuff with go, typescript/javascript and rust for now, know some fp as well(ocaml, nix), but haven't built anything with it.
+getting into blockchain nowadays. for now it's bsv, planning to learn solana as well.  
 
 <img style="width:50vh" src="./coding.gif" alt="Programmer Gif">
 
-### My Interests
+### my Interests
 
-- Software Development 
-- Building Terminal Application
-- Terminal
-- Linux
-- Anime
+- terminal
+- linux
+- backend
+- blockchain
+- anime
 
-### My Atmosphere
+### my atmosphere
 
 Why code in codeshaine? Because I code to escape boredom, hehe!
 
-### My Goal
+### my goal
 
 That would be hmmm...!! building an useful open source projects.
 
 ---
 
-#### You can contace me  [here📨]("mailto:shainilps.work@gmail.com")
+#### you can contace me  [here📨]("mailto:shainilps.work@gmail.com")
