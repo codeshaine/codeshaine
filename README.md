@@ -25,4 +25,4 @@ That would be hmmm...!! planning to build a terminal this year. let's see if i c
 
 ---
 
-#### you can contace me  [here📨]("mailto:shainilps.work@gmail.com")
+#### you can contact me  [here📨]("mailto:shainilps.work@gmail.com")
